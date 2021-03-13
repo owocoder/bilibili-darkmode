@@ -8,3 +8,4 @@ Firefox: https://addons.mozilla.org/us/firefox/addon/styl-us/
 
 
 Just copy style.css from my repo and paste in your Stylus ;-)
+![title](https://i.imgur.com/5o7HZDb.png)
