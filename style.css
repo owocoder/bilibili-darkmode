@@ -1,0 +1,75 @@
+//just copy content from this file and paste in your Stylus ;D
+body
+{
+	background-color: #222930;
+}
+.international-header a, .van-popover a {
+    text-decoration: none;
+    color: #E9FF33;
+    transition: color .3s;
+}
+a {
+    color: #6BFF33;
+    transition: color .3s;
+}
+.elevator .list-box .item {
+    width: 54px;
+    height: 24px;
+    line-height: 24px;
+    text-align: center;
+    cursor: pointer;
+    transition: all .2s;
+    -ms-user-select: none;
+    user-select: none;
+    background: #BBB411;
+}
+.storey-title .no-link {
+    color: #6BFF33;
+    cursor: default;
+}
+.international-header .mini-type .nav-user-center .bilifont, .van-popover .mini-type .nav-user-center .bilifont {
+    margin-left: auto;
+    margin-right: auto;
+    color: #BB1182;
+    
+}
+
+.contact-help:hover {
+    background: #BB1147;
+    color: #BB1147;
+}
+
+.contact-help {
+    position: fixed;
+    z-index: 101;
+    left: 0;
+    top: calc(50% - 30px);
+    margin-top: -36px;
+    width: 28px;
+    height: 72px;
+    transition: all .3s;
+    font-size: 12px;
+    color: #505050;
+    background: #D8C7C9;
+    border: 1px solid #e7e7e7;
+    box-shadow: 0 6px 10px 0 #e7e7e7;
+    border-radius: 0 2px 2px 0;
+    padding: 8px 7px;
+    line-height: 14px;
+}
+
+.storey-title .text-info {
+    color: #B60BB3;
+    line-height: 36px;
+}
+.tab-switch
+{
+    color: #B60BB3;
+}
+.rank-header .name {
+    display: inline-block;
+     color: #EF8003;
+    vertical-align: bottom;
+    font-size: 20px;
+    line-height: 28px;
+}
